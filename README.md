@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Virendra (aka POPPz07)
 
-🎓 I’m a 3rd-year Computer Engineering student at SPPU (Savitribai Phule Pune University)  
+🎓 I’m a 4th-year Computer Engineering student at SPPU (Savitribai Phule Pune University)  
 💻 Backend Developer | AI/ML Enthusiast | Hackathon Winner  
 📈 Passionate about building real-world applications using Python, Flask, FastAPI, PostgreSQL, and MongoDB  
 📚 Currently learning: Flask, Django, PostgreSQL, ML Recommendation Systems, Deep Learning, and basic frontend tech (HTML, CSS, JS)
