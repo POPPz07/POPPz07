@@ -28,7 +28,7 @@
 
 ### 🏆 Achievements:)
 - 🏅 Top 10 at NetElixir AIgnition Hackathon 2024
-- 🧠 Built projects with Random Forest, Recommendation Engines, and FastAPI
+- 🧠 Built projects with Random Forest, Recommendation Engines, and Flask
 
 ---
 
