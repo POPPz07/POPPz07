@@ -2,27 +2,27 @@
 
 🎓 I’m a 4th-year Computer Engineering student at SPPU (Savitribai Phule Pune University)  
 💻 Backend Developer | AI/ML Enthusiast | Hackathon Winner  
-📈 Passionate about building real-world applications using Python, Flask, FastAPI, PostgreSQL, and MongoDB  
-📚 Currently learning: Flask, Django, PostgreSQL, ML Recommendation Systems, Deep Learning, and basic frontend tech (HTML, CSS, JS)
+📈 Passionate about building real-world applications using Python, Flask, FastAPI, SQLlite, MongoDB and Neo4j  
+📚 Currently learning: Flask, FastAPI, PostgreSQL, ML Recommendation Systems, Deep Learning, and basic frontend tech (React)
 
 ---
 
 ### 🚀 My Developer Journey So Far:
-- Developed and deployed multiple backend services using **Flask**, **FastAPI**, and **MongoDB/SQLite**
+- Developedd multiple backend services using **Flask**, and **MongoDB/SQLite**
 - Built an intelligent **movie recommender system** using MovieLens 25M data
 - Created **chatbot-driven ticket booking system** with QR code generation, email delivery, and multilingual support
 - Participated in and **won hackathons** (AIR Top 10 & 1st Prize) with projects in ML, gamification, and real-time systems
 - Explored **AI/ML** concepts through practical projects (Regression, Time Series, Random Forests, NLP)
 - Completed courses on **Python**, **ML**, and **AI** from platforms like Udemy
-- Currently working as a **Trainee Software Engineer at Equations Work**
+- Worked as a **Trainee Software Engineer at Equations Work**
 
 ---
 
 ### 🔧 Tech Stack:
-- **Languages:** Python, SQL, HTML, CSS, JS (basic)
-- **Frameworks:** Flask, FastAPI, Django (learning)
-- **Databases:** MongoDB, PostgreSQL, SQLite
-- **Tools & Platforms:** Git, VS Code, Dialogflow, MongoDB Compass
+- **Languages:** Python, C++, SQL, HTML, CSS, JS (basic)
+- **Frameworks:** Flask, FastAPI(learning)
+- **Databases:** MongoDB, PostgreSQL, SQLite, Neo4J
+- **Tools & Platforms:** Git, Dialogflow, MongoDB Compass/Atlas, Neo4J aura
 
 ---
 
