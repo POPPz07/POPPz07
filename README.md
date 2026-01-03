@@ -138,8 +138,8 @@ I focus on **backend-heavy, ML-powered systems** that solve real problems:
 
 ## 📫 Connect
 
-- 🌐 Portfolio: *(add your site link)*  
-- 🔗 LinkedIn: https://www.linkedin.com/in/  
+- 🌐 Portfolio: https://virendrapawar.vercel.app  
+- 🔗 LinkedIn: https://www.linkedin.com/in/virendra-pawar-826284293  
 - 📧 Email: **virendrapawar1402@gmail.com**
 
 [![](https://visitcount.itsvg.in/api?id=POPPz07&icon=0&color=0)](https://visitcount.itsvg.in)
